@@ -1,0 +1,532 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: #F9C206;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-toggle-on {
+  width: 1.142578125em;
+}
+
+.icon-toggle-off {
+  width: 1.142578125em;
+}
+
+.icon-info {
+  width: 0.8134765625em;
+}
+
+.icon-menu {
+  width: 0.857421875em;
+}
+
+.icon-search {
+  width: 0.927734375em;
+}
+
+.icon-cw {
+  width: 0.857421875em;
+}
+
+.icon-user {
+  width: 0.9404296875em;
+}
+
+.icon-chart-line-1 {
+  width: 1.0029296875em;
+}
+
+.icon-star {
+  width: 0.927734375em;
+}
+
+.icon-columns {
+  width: 0.927734375em;
+}
+
+.icon-chart-area {
+  width: 1.1416015625em;
+}
+
+.icon-chart-bar {
+  width: 1.1416015625em;
+}
+
+.icon-chart-pie-1 {
+  width: 0.83984375em;
+}
+
+.icon-chart-bar-1 {
+  width: 0.7998046875em;
+}
+
+.icon-chart-area-1 {
+  width: 0.98046875em;
+}
+
+.icon-pencil {
+  width: 0.857421875em;
+}
+
+.icon-help-circled {
+  width: 0.857421875em;
+}
+
+.icon-cog {
+  width: 0.857421875em;
+}
+
+.icon-cog-alt {
+  width: 1.0712890625em;
+}
+
+.icon-wrench {
+  width: 0.927734375em;
+}
+
+.icon-off {
+  width: 0.857421875em;
+}
+
+.icon-bookmark-1 {
+  width: 0.7138671875em;
+}
+
+.icon-angle-left {
+  width: 0.357421875em;
+}
+
+.icon-angle-right {
+  width: 0.357421875em;
+}
+
+.icon-angle-up {
+  width: 0.6416015625em;
+}
+
+.icon-angle-down {
+  width: 0.6416015625em;
+}
+
+.icon-ellipsis {
+  width: 0.78515625em;
+}
+
+.icon-ellipsis-vert {
+  width: 0.2138671875em;
+}
+
+.icon-chart-line {
+  width: 1.1416015625em;
+}
+
+.icon-cw-1 {
+  width: 0.9404296875em;
+}
+
+.icon-doc-text-inv {
+  width: 0.857421875em;
+}
+
+.icon-filter {
+  width: 0.78515625em;
+}
+
+.icon-home {
+  width: 0.900390625em;
+}
+
+.icon-clipboard {
+  width: 0.70703125em;
+}
+
+.icon-cancel {
+  width: 0.4697265625em;
+}
+
+.icon-globe {
+  width: 0.9599609375em;
+}
+
+.icon-cancel-1 {
+  width: 0.685546875em;
+}
+
+.icon-ok {
+  width: 0.919921875em;
+}
+
+.icon-cancel-circled {
+  width: 0.9365234375em;
+}
+
+.icon-ok-circled {
+  width: 0.9365234375em;
+}
+
+.icon-location {
+  width: 0.69140625em;
+}
+
+.icon-vector {
+  width: 1.2255859375em;
+}
+
+.icon-download {
+  width: 0.927734375em;
+}
+
+.icon-upload {
+  width: 0.927734375em;
+}
+
+.icon-logout {
+  width: 0.927734375em;
+}
+
+.icon-angle-circled-left {
+  width: 0.857421875em;
+}
+
+.icon-angle-circled-right {
+  width: 0.857421875em;
+}
+
+.icon-right-circled {
+  width: 0.857421875em;
+}
+
+.icon-left-circled {
+  width: 0.857421875em;
+}
+
+.icon-left-circled2 {
+  width: 0.857421875em;
+}
+
+.icon-right-circled2 {
+  width: 0.857421875em;
+}
+
+.icon-tag {
+  width: 0.857421875em;
+}
+
+.icon-bicycle {
+  width: 1.28515625em;
+}
+
+.icon-dot-3 {
+  width: 0.919921875em;
+}
+
+.icon-tags {
+  width: 1.0712890625em;
+}
+
+.icon-home-1 {
+  width: 0.927734375em;
+}
+
+.icon-users {
+  width: 1.0712890625em;
+}
+
+.icon-angle-circled-up {
+  width: 0.857421875em;
+}
+
+.icon-angle-circled-down {
+  width: 0.857421875em;
+}
+
+.icon-down-circled {
+  width: 0.857421875em;
+}
+
+.icon-up-circled {
+  width: 0.857421875em;
+}
+
+.icon-certificate {
+  width: 0.857421875em;
+}
+
+.icon-building {
+  width: 0.78515625em;
+}
+
+.icon-user-md {
+  width: 0.78515625em;
+}
+
+.icon-stethoscope {
+  width: 0.78515625em;
+}
+
+.icon-bank {
+  width: 1.1416015625em;
+}
+
+.icon-resize-full {
+  width: 0.927734375em;
+}
+
+.icon-resize-small {
+  width: 0.927734375em;
+}
+
+.icon-print {
+  width: 0.927734375em;
+}
+
+.icon-th-thumb {
+  width: 0.9365234375em;
+}
+
+.icon-chat {
+  width: 1.2939453125em;
+}
+
+.icon-spread {
+  width: 1.2216796875em;
+}
+
+.icon-clock {
+  width: 0.9365234375em;
+}
+
+.icon-commerical-building {
+  width: 0.75em;
+}
+
+.icon-book {
+  width: 0.703125em;
+}
+
+.icon-link {
+  width: 0.7998046875em;
+}
+
+.icon-toilet {
+  width: 0.849609375em;
+}
+
+.icon-block-1 {
+  width: 0.857421875em;
+}
+
+.icon-cab {
+  width: 1.1416015625em;
+}
+
+.icon-subway {
+  width: 0.857421875em;
+}
+
+.icon-ship {
+  width: 1.1416015625em;
+}
+
+.icon-london-underground {
+  width: 0.9501953125em;
+}
+
+.icon-trash-empty {
+  width: 0.78515625em;
+}
+
+.icon-leaf {
+  width: 0.9404296875em;
+}
+
+.icon-droplet {
+  width: 0.5595703125em;
+}
+
+.icon-dollar {
+  width: 0.5712890625em;
+}
+
+.icon-mic {
+  width: 0.6416015625em;
+}
+
+.icon-mute {
+  width: 0.78515625em;
+}
+
+.icon-boundaries {
+  width: 1.845703125em;
+}
+
+.icon-commercial {
+  width: 0.9169921875em;
+}
+
+.icon-conservation {
+  width: 0.9169921875em;
+}
+
+.icon-cycling {
+  width: 1.0908203125em;
+}
+
+.icon-demographics {
+  width: 0.8330078125em;
+}
+
+.icon-employment {
+  width: 1.0908203125em;
+}
+
+.icon-ground_sensing {
+  width: 1.0908203125em;
+}
+
+.icon-utilities {
+  width: 1.5em;
+}
+
+.icon-transport {
+  width: 0.9169921875em;
+}
+
+.icon-security {
+  width: 0.9169921875em;
+}
+
+.icon-realtime {
+  width: 0.931640625em;
+}
+
+.icon-planning {
+  width: 1.3330078125em;
+}
+
+.icon-people_flow {
+  width: 1.2001953125em;
+}
+
+.icon-housing {
+  width: 1.0908203125em;
+}
+
+.icon-healthcare {
+  width: 1.3330078125em;
+}
+
+.icon-star-1 {
+  width: 0.908203125em;
+}
+
+.icon-picture {
+  width: 1.0712890625em;
+}
+
+.icon-star-empty {
+  width: 0.927734375em;
+}
+
+.icon-power {
+  width: 0.677734375em;
+}
+
+.icon-camera {
+  width: 1.0712890625em;
+}
+
+.icon-link-1 {
+  width: 0.927734375em;
+}
+
+.icon-attach {
+  width: 0.78515625em;
+}
+
+.icon-lock {
+  width: 0.6416015625em;
+}
+
+.icon-lock-open {
+  width: 0.927734375em;
+}
+
+.icon-calendar {
+  width: 0.927734375em;
+}
+
+.icon-clock-1 {
+  width: 0.857421875em;
+}
+
+.icon-arrows-cw {
+  width: 0.857421875em;
+}
+
+.icon-globe-1 {
+  width: 0.857421875em;
+}
+
+.icon-forward-1 {
+  width: 0.900390625em;
+}
+
+.icon-air {
+  width: 0.9052734375em;
+}
+
+.icon-equalizer {
+  width: 0.927734375em;
+}
+
+.icon-tag-1 {
+  width: 0.94140625em;
+}
+
+.icon-tags-1 {
+  width: 0.994140625em;
+}
+
+.icon-ruler {
+  width: 0.921875em;
+}
+
+.icon-bookmark-empty {
+  width: 0.7138671875em;
+}
+
+.icon-table {
+  width: 0.927734375em;
+}
+
+.icon-code {
+  width: 1.0712890625em;
+}
+
+.icon-crop {
+  width: 0.927734375em;
+}
+
+.icon-unlink {
+  width: 0.927734375em;
+}
+
+.icon-sliders {
+  width: 0.857421875em;
+}
+
+.icon-snowflake-o {
+  width: 0.927734375em;
+}
